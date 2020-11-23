@@ -1,0 +1,30 @@
+﻿.wrapper{
+    margin: 0 auto 0 auto;
+    width: 1000px;
+}
+
+.img-jump{
+    width: 1000px;
+}
+
+h1{
+    font-size: 48px;
+    font-family: Helvetica;
+    position: center;
+    text-align: center;
+}
+
+h2 {
+    font-size: 18px;
+    font-family: Helvetica;
+    position: center;
+    text-align: center;
+
+}
+
+body{
+    background-image: url("images/haigwide.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
