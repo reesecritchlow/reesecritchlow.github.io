@@ -27,7 +27,7 @@ body{
     background-image: url("images/sunset.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size: 2000px;
+    background-size: cover;
     background-position: bottom;
 }
 
