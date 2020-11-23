@@ -1,10 +1,10 @@
 ﻿.wrapper{
-    margin: 0 auto 0 auto;
-    width: 1000px;
+    margin: auto auto auto auto;
+    width: 800px;
 }
 
 .img-jump{
-    width: 1000px;
+    width: 800px;
 }
 
 h1{
@@ -12,6 +12,7 @@ h1{
     font-family: Helvetica;
     position: center;
     text-align: center;
+    color: white;
 }
 
 h2 {
@@ -19,12 +20,14 @@ h2 {
     font-family: Helvetica;
     position: center;
     text-align: center;
-
+    color: white;
 }
 
 body{
-    background-image: url("images/haigwide.png");
+    background-image: url("images/sunset.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
+    background-size: 2000px;
+    background-position: bottom;
 }
 
